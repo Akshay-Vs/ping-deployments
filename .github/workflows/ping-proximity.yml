@@ -12,4 +12,4 @@ jobs:
     steps:
     - name: Send HTTP request to Proximity XI
       run: |
-        curl -I https://proximity-xi.vercel.app/
+        curl https://news-app-deployment.onrender.com
